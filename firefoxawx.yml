@@ -15,6 +15,7 @@
       win_chocolatey: 
         name: firefox
         version: 67.0.4
+        state: reinstalled
 
   # Handlers: handlers that are executed as a notify key from a task
 
